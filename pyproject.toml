@@ -1,0 +1,11 @@
+[project]
+name = "exjobb-julius-falt-skoglund-de25"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dlt[parquet,snowflake]>=1.31.0",
+    "ipykernel>=7.4.0",
+    "pandas>=3.0.6",
+]
