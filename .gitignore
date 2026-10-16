@@ -44,8 +44,7 @@ tempCodeRunnerFile.py
 # Hide passwords
 **/.dlt
 
-setup_user_09.sql
-
+**/setup_user.sql
 
 target/
 dbt_packages/
